@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farmacim", "Farmacim.csproj", "{379E9D9C-E0BD-4211-9AC1-2C2C215C9FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{379E9D9C-E0BD-4211-9AC1-2C2C215C9FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379E9D9C-E0BD-4211-9AC1-2C2C215C9FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379E9D9C-E0BD-4211-9AC1-2C2C215C9FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379E9D9C-E0BD-4211-9AC1-2C2C215C9FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F44F4B66-3565-44BF-A584-FDB5B95999FD}
+	EndGlobalSection
+EndGlobal

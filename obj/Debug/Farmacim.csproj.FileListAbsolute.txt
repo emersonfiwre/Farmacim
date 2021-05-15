@@ -1,0 +1,16 @@
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\bin\Debug\Farmacim.exe.config
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\bin\Debug\Farmacim.exe
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\bin\Debug\Farmacim.pdb
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.csprojAssemblyReference.cache
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.Properties.Resources.resources
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.csproj.GenerateResource.cache
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.csproj.CoreCompileInputs.cache
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.exe
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.pdb
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.FormLogin.resources
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.FormSingup.resources
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.FormDashBoard.resources
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.view.FormAddProduto.resources
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.view.FormAbout.resources
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.view.FormOrder.resources
+C:\Users\limae\Documents\VisualStudioProjects\Farmacim\obj\Debug\Farmacim.view.FormSearchProduto.resources
